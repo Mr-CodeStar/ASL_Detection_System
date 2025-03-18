@@ -10,8 +10,9 @@ By leveraging a labeled dataset of hand sign images, the model learns to identif
 - Performance Metrics: Tracks accuracy, precision
 
 In this programe the number of epochs used is only 12 but still i get pretty good result.
+The accuracy increased in a steady rate.
 
-![The accuracy increased in a steady rate.](path/to/image)
+![Accuracy Image](https://github.com/Mr-CodeStar/ASL_Detection_System/blob/main/Accuracy.png)
 
 ## 📊 Results
 | Accuracy         | Value |
